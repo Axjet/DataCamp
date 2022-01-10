@@ -1,6 +1,6 @@
-DataCamp Projects
+Projects
 
-My notebooks to Datacamp projects.
+My notebooks for personal and Datacamp projects.
 
 Python
   	                                
